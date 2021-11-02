@@ -1,8 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import App from './component/App';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+
+// const counter = Counter.create({});
+
 
 ReactDOM.render(
   <React.StrictMode>
